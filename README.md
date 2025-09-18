@@ -18,3 +18,4 @@ Results: https://docs.google.com/spreadsheets/d/18VQGTRrxL2cYAcQ5BudiiUQu04KUxOu
 |`substraction_embeddings.py`|File|substract embeddings third from second, second from first, first -0|
 |`split_3_labels.py`|File|Old splitting method|
 |`split_embeddings.py`|File| Generate 1 sentence data from 3 sentences datas.|
+|`dataset_animals_gen.py`| File| Creates animals "It is .." dataset.|
