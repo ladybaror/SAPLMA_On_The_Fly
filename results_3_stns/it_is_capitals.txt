@@ -1,0 +1,3 @@
+Dataset: capitals
+Accuracy: 0.8849794238683127
+AUC: 0.9665277989466375
