@@ -3,3 +3,6 @@ Method  for more efficient utilization of embeddings to assess the truthfulness 
 
 Document: https://www.overleaf.com/project/68a703f645ab28b48d5832e0
 
+Results: https://docs.google.com/spreadsheets/d/18VQGTRrxL2cYAcQ5BudiiUQu04KUxOu7TfNF89UskWg/edit?gid=2011996606#gid=2011996606
+
+
