@@ -19,3 +19,4 @@ Results: https://docs.google.com/spreadsheets/d/18VQGTRrxL2cYAcQ5BudiiUQu04KUxOu
 |`split_3_labels.py`|File|Old splitting method|
 |`split_embeddings.py`|File| Generate 1 sentence data from 3 sentences datas.|
 |`dataset_animals_gen.py`| File| Creates animals "It is .." dataset.|
+|`datasets_3_sentences`| Folder|splitted datasets to 3 sentences|
