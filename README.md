@@ -5,4 +5,16 @@ Document: https://www.overleaf.com/project/68a703f645ab28b48d5832e0
 
 Results: https://docs.google.com/spreadsheets/d/18VQGTRrxL2cYAcQ5BudiiUQu04KUxOu7TfNF89UskWg/edit?gid=2011996606#gid=2011996606
 
-
+| Name                | Type     | Description                                                  |
+|---------------------|----------|--------------------------------------------------------------|
+| `README.md`         | File     | This file; explains the project and usage instructions.    
+| `dataset_with_tokens`|Folder   | This folder contains dataset files with labels and tokens per sentence|
+|`resources_it_s`     | Folder   | This folder contains dataset with "It is .." sentence concatenated|
+|`classify_by_h5_10_tries.py`, `classify_regular_10h5s.py`| File| These script predicts the Truth/Falsehood according to previously trained classifier (h5 file) and test of some new created or changed dataset|
+|`compare_embeddings.py`|File| Compares embeddings from two different files (After cutting the embeddings to 1st, 2nd and 3rd sentences' embeddings, comparing the embeddings ro source embeddings of all 3 kind of embeddings)|
+|`generate_with_tokens_3_sentences_three_labels_smollm.py`| File| Add token to dataset file of last token location of each of the 3 sentences|
+|`llmRunMultiLayers_3_sentences_...`|Files| Generate embeddings of last token for 1st. 2nd and 3rd sentences accordingly|
+|`llmRunMultiLayers_smollm.py`|File| Generate embeddings of last token for "It is .." dataset|
+|`substraction_embeddings.py`|File|substract embeddings third from second, second from first, first -0|
+|`split_3_labels.py`|File|Old splitting method|
+|`split_embeddings.py`|File| Generate 1 sentence data from 3 sentences datas.|
