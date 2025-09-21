@@ -5,6 +5,8 @@ Document: https://www.overleaf.com/project/68a703f645ab28b48d5832e0
 
 Results: https://docs.google.com/spreadsheets/d/18VQGTRrxL2cYAcQ5BudiiUQu04KUxOu7TfNF89UskWg/edit?gid=2011996606#gid=2011996606
 
+FRD – Functional Requirements Document - https://docs.google.com/document/d/1N3di3own47lJJpy3WAMF21LYhmbdrD7hloaX0u21bPc/edit?tab=t.0
+
 | Name                | Type     | Description                                                  |
 |---------------------|----------|--------------------------------------------------------------|
 | `README.md`         | File     | This file; explains the project and usage instructions.    
