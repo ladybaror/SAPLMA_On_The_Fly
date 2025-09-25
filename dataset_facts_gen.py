@@ -37,7 +37,7 @@ for i, row in df.iterrows():
    
 
     # Country
-    headquarter = " It has headquarter in "
+    headquarter = " It has headquarter in "
     sentence = name + is_a+ headquarter + str(country) + "."
     
     dataset.append((sentence, 1))
