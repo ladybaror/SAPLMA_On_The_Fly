@@ -3,7 +3,11 @@ Method  for more efficient utilization of embeddings to assess the truthfulness 
 
 Document: https://www.overleaf.com/project/68a703f645ab28b48d5832e0
 
+Pof. Amos Azaria explanation: https://drive.google.com/file/d/15BWTLzxYPaDin6MHAows9_EI3tT7zGZW/view?usp=sharing
+
 Results: https://docs.google.com/spreadsheets/d/18VQGTRrxL2cYAcQ5BudiiUQu04KUxOu7TfNF89UskWg/edit?gid=2011996606#gid=2011996606
+
+FRD – Functional Requirements Document - https://docs.google.com/document/d/1N3di3own47lJJpy3WAMF21LYhmbdrD7hloaX0u21bPc/edit?tab=t.0
 
 | Name                | Type     | Description                                                  |
 |---------------------|----------|--------------------------------------------------------------|
@@ -19,3 +23,4 @@ Results: https://docs.google.com/spreadsheets/d/18VQGTRrxL2cYAcQ5BudiiUQu04KUxOu
 |`split_3_labels.py`|File|Old splitting method|
 |`split_embeddings.py`|File| Generate 1 sentence data from 3 sentences datas.|
 |`dataset_animals_gen.py`| File| Creates animals "It is .." dataset.|
+|`datasets_3_sentences`| Folder|splitted datasets to 3 sentences|
